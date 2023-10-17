@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Alecsis",
+  "repo": "container-ohqpthq",
+  "name": "Alecsis",
+  "email": "114525637+Alecsis@users.noreply.github.com",
+}
